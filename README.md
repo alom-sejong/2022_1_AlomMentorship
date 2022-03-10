@@ -7,7 +7,7 @@
 ## 안드로이드 기초 멘토링
 
 ### 📚 참고 자료
-* [깃허브 Pull requests(풀리퀘) 하는법](https://github.com/alom-sejong/Alom-Mentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
+* [깃허브 Pull requests(풀리퀘) 하는법](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
 1. **Fork** : Alom-Mentorship 저장소에서 오른쪽 Fork 버튼 클릭  
 2. **Clone** : [Github Desktop으로 clone 해오기](https://hello-bryan.tistory.com/201)  
 3. **Commit&Push** : [Github Desktop으로 commit & push 하기](https://post.naver.com/viewer/postView.nhn?volumeNo=24624153&memberNo=42458017)
@@ -26,7 +26,7 @@
 시간이 되는 대로 최대한 빠르게 답변 도와드리도록 하겠습니다.  
 ### 📌 일정
 
-* [0주차 과제: 포크, 클론 및 풀리퀘스트](https://www.github.com/alom-sejong/Alom-Mentorship/tree/main/How%20to%20pull%20request%20in%20github.pdf)
+* [0주차 과제: 포크, 클론 및 풀리퀘스트](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
 * [1주차 과제: 안드로이드 프로젝트 알기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
 * [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/blob/main/2%EC%A3%BC%EC%B0%A8/default.MD)
 * [3주차 과제: 레이아웃과 위젯2 & 자바 맛보기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/3%EC%A3%BC%EC%B0%A8/default.MD)
