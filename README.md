@@ -36,6 +36,38 @@
 * [7주차 과제: 네비게이션과 프레그먼트](https://github.com/alom-sejong/Alom-Mentorship)
 * [8주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/Alom-Mentorship)
 
+이름	과제	커리큘럼 목표	목표일	강의 Url
+안드로이드 프로젝트 알기	프로젝트 구성요소를 정리하여 문서로 제출	"Android Studio 설치,
+안드로이드 프로젝트 구조,
+xml의 태그 시스템 알기"	2일	
+레이아웃과 위젯1	멘토가 지시한 간단한 UI 만들기	"LinearLayout, ConstraintLayout,
+TextView, ImageView"	5일	
+레이아웃과 위젯2	멘토가 지시한 UI 만들기	"LinearLayout,
+ConstraintLayout,
+TextView, ImageView,
+Button"	3일	
+Hello Java	Java로 간단한 실습문제 풀기	변수, 입출력, 조건문, 반복문 알기	3일	
+OOP Java	"몇 가지 class를 만들고
+class 간의 상호작용 구현해보기"	"메소드, Class,
+접근제어지시자(public, private, protected),
+Call by reference"	5일	
+안드로이드와 Java	멘토가 지시한 기능 구현하기	"Activity를 상속받은 MainActivity의 구조,
+안드로이드 생명주기(LifeCycle),
+xml의 위젯들을 Java와 연결하여 동적으로 이벤트 처리,
+android:id,
+findViewById,
+setOnClickListener,
+Intent,
+startActivity,
+Toast"	7일	
+안드로이드 앱 개발 기초	Todo-List의 뼈대가 되는 RecyclerView 사용해보기	RecyclerView로 할일 목록 구현	7일	
+안드로이드 앱 개발 심화1	Todo-List를 마저 구현하기1	"할일 add & remove & all clear 구현,
+프로필 화면 구현"	7일	
+안드로이드 앱 개발 심화2	Todo-List를 마저 구현하기2	SharedPreference를 이용하여 리스트 값 저장 및 불러오기(앱 재실행 시에도 데이터가 보이게)	7일	
+자율 프로젝트	좀 더 심화적으로 앱 개발해보기	안드로이드 앱 개발 팀 프로젝트에서 한 명의 앱 개발자 담당이 가능하게끔	팀 재량	
+
+![image](https://user-images.githubusercontent.com/49704047/160286037-a9d5a8aa-950b-4f37-b91d-29fd8df60fa5.png)
+
 
 ### 🗓 멘토링 참여 현황
 
