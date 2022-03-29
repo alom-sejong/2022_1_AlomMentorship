@@ -47,7 +47,7 @@
 | 김민경 ||||||||||
 | 김수진 |:white_check_mark:|||||||||
 | 김근형 ||||||||||
-| 김요찬 ||||||||||
+| 김요찬 |:white_check_mark:|||||||||
 | 김윤회 |:white_check_mark:|||||||||
 | 김채린 |:white_check_mark:|||||||||
 | 김형구 |:white_check_mark:|||||||||
