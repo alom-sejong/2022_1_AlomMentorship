@@ -28,7 +28,7 @@
 
 * [0주차 과제: 포크, 클론 및 풀리퀘스트](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/How%20to%20pull%20request%20in%20github.pdf)
 * [1주차 과제: 안드로이드 스튜디오와 프로젝트 이해하기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
-* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/Alom-Mentorship/blob/main/2%EC%A3%BC%EC%B0%A8/default.MD)
+* [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%9E%A5_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83_1.pdf)
 * [3주차 과제: 레이아웃과 위젯2](https://github.com/alom-sejong/Alom-Mentorship/blob/main/3%EC%A3%BC%EC%B0%A8/default.MD)
 * [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/Alom-Mentorship/)
 * [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/Alom-Mentorship)
