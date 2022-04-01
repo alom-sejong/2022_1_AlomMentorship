@@ -36,9 +36,6 @@
 * [7주차 과제: 네비게이션과 프레그먼트](https://github.com/alom-sejong/Alom-Mentorship)
 * [8주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/Alom-Mentorship)
 
-![image](https://user-images.githubusercontent.com/49704047/160286090-d3e18f97-eef7-4d71-a530-e581e01bd4d3.png)
-
-
 
 ### 🗓 멘토링 참여 현황
 
