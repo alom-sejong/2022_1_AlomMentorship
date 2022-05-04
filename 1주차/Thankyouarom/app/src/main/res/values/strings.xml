@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Thankyouarom</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">이름쓰기</string>
+    <string name="sync_header">설정</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">이름</string>
+    <string name="reply_title">자유의견</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">학점 잘받고 싶어요</string>
+    <string name="attachment_title">공부 열심히 하기</string>
+    <string name="attachment_summary_on">파이팅!!
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
