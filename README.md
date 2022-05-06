@@ -43,7 +43,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 구동현 |:white_check_mark:|||||||||
-| 권효정 |:white_check_mark:|||||||||
+| 권효정 |:white_check_mark:|:white_check_mark:||||||||
 | 김민경 ||||||||||
 | 김수진 |:white_check_mark:|||||||||
 | 김근형 ||||||||||
@@ -53,7 +53,7 @@
 | 김형구 |:white_check_mark:|||||||||
 | 박준형 |:white_check_mark:|||||||||
 | 박지훈 |:white_check_mark:|:white_check_mark:||||||||
-| 서호영 |:white_check_mark:|||||||||
+| 서호영 |:white_check_mark:|:white_check_mark:||||||||
 | 손동영 |:white_check_mark:|||||||||
 | 신예린 |:white_check_mark:|||||||||
 | 안지혁 ||||||||||
