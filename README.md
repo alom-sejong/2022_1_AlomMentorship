@@ -43,7 +43,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ❤목표❤ |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
 | 구동현 |:white_check_mark:|||||||||
-| 권효정 |:white_check_mark:|:white_check_mark:||||||||
+| 권효정 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 김민경 ||||||||||
 | 김수진 |:white_check_mark:|||||||||
 | 김근형 ||||||||||
@@ -53,7 +53,7 @@
 | 김형구 |:white_check_mark:|||||||||
 | 박준형 |:white_check_mark:|||||||||
 | 박지훈 |:white_check_mark:|:white_check_mark:||||||||
-| 서호영 |:white_check_mark:|:white_check_mark:||||||||
+| 서호영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 손동영 |:white_check_mark:|||||||||
 | 신예린 |:white_check_mark:|||||||||
 | 안지혁 ||||||||||
@@ -69,7 +69,7 @@
 | 임송빈 |:white_check_mark:|||||||||
 | 장호익 |:white_check_mark:|||||||||
 | 전서현 ||||||||||
-| 조성혁 |:white_check_mark:|:white_check_mark:||||||||
+| 조성혁 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 지원 ||||||||||
 | 차재혁 ||||||||||
 | 최승훈 |:white_check_mark:|||||||||
