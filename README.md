@@ -57,7 +57,7 @@
 | 손동영 |:white_check_mark:|||||||||
 | 신예린 |:white_check_mark:|||||||||
 | 안지혁 ||||||||||
-| 오승훈 |:white_check_mark:|:white_check_mark:||||||||
+| 오승훈 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 오인우 |:white_check_mark:|:white_check_mark:||||||||
 | 오창환 |:white_check_mark:|:white_check_mark:||||||||
 | 유승호 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
