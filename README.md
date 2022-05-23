@@ -30,11 +30,11 @@
 * [1주차 과제: 안드로이드 스튜디오와 프로젝트 이해하기](https://github.com/alom-sejong/Alom-Mentorship/blob/main/1%EC%A3%BC%EC%B0%A8_%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%95%8C%EA%B8%B0.pdf)
 * [2주차 과제: 레이아웃과 위젯1](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/2%EC%A3%BC%EC%B0%A8/2%EC%9E%A5_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83_1.pdf)
 * [3주차 과제: 레이아웃과 위젯2](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/3%EC%A3%BC%EC%B0%A8/3%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
-* [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/Alom-Mentorship/)
-* [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/Alom-Mentorship)
-* [6주차 과제: 리사이클러뷰](https://github.com/alom-sejong/Alom-Mentorship)
-* [7주차 과제: 네비게이션과 프레그먼트](https://github.com/alom-sejong/Alom-Mentorship)
-* [8주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/Alom-Mentorship)
+* [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/2022_1_AlomMentorship)
+* [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/2022_1_AlomMentorship)
+* [6주차 과제: 리사이클러뷰](https://github.com/alom-sejong/2022_1_AlomMentorship)
+* [7주차 과제: 네비게이션과 프레그먼트](https://github.com/alom-sejong/2022_1_AlomMentorship)
+* [8주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/2022_1_AlomMentorship)
 
 
 ### 🗓 멘토링 참여 현황
