@@ -52,8 +52,8 @@
 | 김채린 |:white_check_mark:|:white_check_mark:||||||||
 | 김형구 |:white_check_mark:|||||||||
 | 박준형 |:white_check_mark:|||||||||
-| 박지훈 |:white_check_mark:|:white_check_mark:||||||||
-| 서호영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||||||
+| 박지훈 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
+| 서호영 |:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
 | 손동영 |:white_check_mark:|||||||||
 | 신예린 |:white_check_mark:|||||||||
 | 안지혁 ||||||||||
