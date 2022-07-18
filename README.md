@@ -72,4 +72,4 @@
 | 조성혁 |:white_check_mark:|:white_check_mark:|:white_check_mark:|||||||
 | 지원 ||||||||||
 | 차재혁 ||||||||||
-| 최승훈 |:white_check_mark:|||||||||
+| 최승훈 |:white_check_mark:|:white_check_mark:||||||||
