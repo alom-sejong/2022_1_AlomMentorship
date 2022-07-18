@@ -33,8 +33,7 @@
 * [4주차 과제: 이벤트 처리 & 화면전환](https://github.com/alom-sejong/2022_1_AlomMentorship/blob/main/4%EC%A3%BC%EC%B0%A8/4%EC%A3%BC%EC%B0%A8%20%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C/4%EC%A3%BC%EC%B0%A8_%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C.MD)
 * [5주차 과제: 리스트뷰와 어댑터](https://github.com/alom-sejong/2022_1_AlomMentorship)
 * [6주차 과제: 리사이클러뷰](https://github.com/alom-sejong/2022_1_AlomMentorship)
-* [7주차 과제: 네비게이션과 프레그먼트](https://github.com/alom-sejong/2022_1_AlomMentorship)
-* [8주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/2022_1_AlomMentorship)
+* [7주차 과제: 멘토링 수료 프로젝트](https://github.com/alom-sejong/2022_1_AlomMentorship)
 
 
 ### 🗓 멘토링 참여 현황
